@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/https//sonhoang88.github.io/reactjs/static/css/main.1bbd35b6.css",
-    "main.js": "/https//sonhoang88.github.io/reactjs/static/js/main.01906ec3.js",
-    "static/js/787.dc9aa610.chunk.js": "/https//sonhoang88.github.io/reactjs/static/js/787.dc9aa610.chunk.js",
-    "static/media/background.png": "/https//sonhoang88.github.io/reactjs/static/media/background.e4e35a59a4f5f0b34bd2.png",
-    "index.html": "/https//sonhoang88.github.io/reactjs/index.html",
-    "main.1bbd35b6.css.map": "/https//sonhoang88.github.io/reactjs/static/css/main.1bbd35b6.css.map",
-    "main.01906ec3.js.map": "/https//sonhoang88.github.io/reactjs/static/js/main.01906ec3.js.map",
-    "787.dc9aa610.chunk.js.map": "/https//sonhoang88.github.io/reactjs/static/js/787.dc9aa610.chunk.js.map"
+    "main.css": "/reactjs/static/css/main.ceeada44.css",
+    "main.js": "/reactjs/static/js/main.069b53f0.js",
+    "static/js/787.dc9aa610.chunk.js": "/reactjs/static/js/787.dc9aa610.chunk.js",
+    "static/media/background.png": "/reactjs/static/media/background.e4e35a59a4f5f0b34bd2.png",
+    "index.html": "/reactjs/index.html",
+    "main.ceeada44.css.map": "/reactjs/static/css/main.ceeada44.css.map",
+    "main.069b53f0.js.map": "/reactjs/static/js/main.069b53f0.js.map",
+    "787.dc9aa610.chunk.js.map": "/reactjs/static/js/787.dc9aa610.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bbd35b6.css",
-    "static/js/main.01906ec3.js"
+    "static/css/main.ceeada44.css",
+    "static/js/main.069b53f0.js"
   ]
 }
